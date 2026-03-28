@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <p>interesting</p>
+  <p> <b>interesting</b> </p>
   <ul>
     <li>server engineering</li>
     <li>computer vision</li>
